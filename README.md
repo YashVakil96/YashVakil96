@@ -1,4 +1,4 @@
-- 👋 Hi, I’m YashVakil96
+- 👋 Hi, I’m Yash Vakil
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently working in Unity
 - 💞️ I’m looking to collaborate on Small Game Dev Projects
