@@ -3,9 +3,8 @@
 
 
 # Hi, I'm Yash Vakil
-1
-2
-3
+
+#
 
 ### Unity Game Developer
 
