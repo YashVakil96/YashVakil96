@@ -5,8 +5,6 @@
 # Hi, I'm Yash Vakil
 ### Unity Game Developer
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-
 - 💞️ I’m looking to collaborate on Small Game Dev Projects
 - 📫 How to reach me : yashvakil96@gmail.com
 
